@@ -1,0 +1,14 @@
+.vs/
+.vs
+.vscode/
+*.sln
+x64
+sfmlGame/sfmlGame.vcxproj
+sfmlGame/sfmlGame.vcxproj.filters
+sfmlGame/sfmlGame.vcxproj.user
+build
+build/
+app/
+app
+SFML-2.5.1
+SFML-2.5.1/
